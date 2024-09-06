@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsQuassano
 - 👀 I’m interested in Data Analytics, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on my Deep Learning Projects
+- 💞️ I’m looking to collaborate on Deep Learning Projects
 
 
 <!---
